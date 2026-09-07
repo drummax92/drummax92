@@ -1,24 +1,28 @@
 # Hi, I'm Maxim 👋
 
-I'm a Computing Science student at Simon Fraser University in Burnaby, BC.
+**Computing Science student at Simon Fraser University**  
+**Work-Study Research Assistant @ Tangent Lab, SFU**
 
-I enjoy building practical software and turning ideas into real, usable products.  
-I'm currently focused on **software engineering** and **web development**.
+I'm a Computing Science student interested in software engineering, web development, and building practical interactive systems.
 
-## 🛠 Tech Stack
+I enjoy taking ideas from concept to working products — from commercial web applications to research prototypes.
 
-**Languages**
-- TypeScript
-- JavaScript
-- HTML
-- CSS
+---
 
-**Frameworks & Tools**
-- React
-- Next.js
-- Tailwind CSS
-- Git
-- GitHub
+## 🔬 Tangent Lab @ SFU
+
+I'm a **Work-Study Research Assistant at Tangent Lab** at Simon Fraser University.
+
+My work involves contributing to:
+
+- Study design and research development
+- Hardware and software prototypes
+- Experimental studies and data collection
+- Collaborative development and documentation
+
+This role gives me the opportunity to work at the intersection of **software, research, and interactive technology**.
+
+---
 
 ## 🚀 Featured Project
 
@@ -26,25 +30,52 @@ I'm currently focused on **software engineering** and **web development**.
 
 A commercial website developed for a foam products company in Astana, Kazakhstan.
 
-**Built with:**  
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+**Tech:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-The website includes:
+Key features:
 
 - Responsive desktop and mobile interfaces
-- Product catalogue and pricing
+- Product catalogue with pricing
 - Interactive product calculator
 - WhatsApp integration
 - Delivery and contact information
 - Map integration
 
+[Live Website](https://akmol.penoplast-astana.com/)
+
+> Source code is kept private as this is a commercial client project.
+
+## 🛠 Tech Stack
+
+### Languages
+`TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+### Frameworks & Libraries
+`React` · `Next.js` · `Tailwind CSS`
+
+### Tools
+`Git` · `GitHub` · `VS Code`
+
+---
+
 ## 🎓 Education
 
 **Simon Fraser University**  
-B.Sc. Computing Science
+Bachelor of Science in Computing Science
 
-Burnaby, BC, Canada
+Burnaby, British Columbia, Canada
+
+---
+
+## 🌱 Currently
+
+- Working as a Research Assistant at **Tangent Lab**
+- Building and improving real-world software projects
+- Expanding my software engineering skills
+- Preparing for **Software Engineering / Web Development Co-op opportunities**
+
+---
 
 ## 📫 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/maxim-sarukhanov/) · [Email](mailto:maxim_sarukhanov@sfu.ca)
