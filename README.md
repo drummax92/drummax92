@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Maxim 👋
 
-<!--
-**drummax92/drummax92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing Science student at Simon Fraser University in Burnaby, BC.
 
-Here are some ideas to get you started:
+I enjoy building practical software and turning ideas into real, usable products.  
+I'm currently focused on **software engineering** and **web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+**Frameworks & Tools**
+- React
+- Next.js
+- Tailwind CSS
+- Git
+- GitHub
+
+## 🚀 Featured Project
+
+### Akmolinskie Penoplasty
+
+A commercial website developed for a foam products company in Astana, Kazakhstan.
+
+**Built with:**  
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+The website includes:
+
+- Responsive desktop and mobile interfaces
+- Product catalogue and pricing
+- Interactive product calculator
+- WhatsApp integration
+- Delivery and contact information
+- Map integration
+
+## 🎓 Education
+
+**Simon Fraser University**  
+B.Sc. Computing Science
+
+Burnaby, BC, Canada
+
+## 📫 Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
