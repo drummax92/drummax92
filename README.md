@@ -43,7 +43,7 @@ Key features:
 
 [Live Website](https://akmol.penoplast-astana.com/)
 
-> Source code is kept private as this is a commercial client project.
+[Source Code](https://github.com/drummax92/akmol-foam-website)
 
 ## 🛠 Tech Stack
 
